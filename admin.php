@@ -12,11 +12,9 @@
 </head>
 <body>
 <?php require('connect_db.php');  ?>
-
 <div class="container">
   <h2>Trang Quản Lý Sách Đơn Giản</h2>
   <p>Danh sách đầu sách</p>   
-
   <form name="#">      
   <table class="table">
     <thead>

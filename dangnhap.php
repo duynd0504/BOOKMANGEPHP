@@ -10,15 +10,15 @@
 </head>
 <body>
 <div class="container">
-  <h2>ĐĂNG NHẬP</h2>
-  <form action="connect_login.php" method="post">
+  <h3>ĐĂNG NHẬP</h3>
+  <form action="connect_login.php" method="POST">
     <div class="form-group">
       <label>Tên Đăng Nhập:</label>
-      <input type="text" class="form-control" name="user" id="user">
+      <input type="text" class="form-control" name="username" >
     </div>
     <div class="form-group">
       <label for="pwd">Mật khẩu:</label>
-      <input type="password" class="form-control" name="pass" >
+      <input type="password" class="form-control" name="password" >
     </div>
     <button type="submit" class="btn btn-warning">ĐĂNG NHẬP</button>
   </form>
