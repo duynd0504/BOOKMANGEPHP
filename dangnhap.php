@@ -14,7 +14,7 @@
   <form action="connect_login.php" method="post">
     <div class="form-group">
       <label>Tên Đăng Nhập:</label>
-      <input type="text" class="form-control"   name="user" id="user">
+      <input type="text" class="form-control" name="user" id="user">
     </div>
     <div class="form-group">
       <label for="pwd">Mật khẩu:</label>
