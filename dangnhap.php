@@ -20,6 +20,10 @@
       <label for="pwd">Mật khẩu:</label>
       <input type="password" class="form-control" name="password" >
     </div>
+     <div class="form-group">
+      <label name="trangthai" id="1"> </label>
+      
+    </div>
     <button type="submit" class="btn btn-warning">ĐĂNG NHẬP</button>
   </form>
 </div>
